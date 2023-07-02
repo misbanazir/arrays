@@ -1,2 +1,2 @@
 # arrays
-arrays solved interview problems
+Practice problems for interview
